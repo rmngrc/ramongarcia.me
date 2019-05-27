@@ -20,7 +20,7 @@ body {
   flex-flow: column;
   height: 100%;
   justify-content: center;
-  padding: 0 3rem;
+  padding: 0 1.5rem;
 }
 
 .Title {
@@ -48,7 +48,7 @@ body {
 
 .Links-list {
   display: inline-block;
-  margin-right: 1rem;
+  margin-right: 0.5rem;
 }
 
 .Button {
@@ -61,10 +61,10 @@ body {
   color: #222;
   /* color: #ffffff; */
   display: inline-block;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font-weight: 500;
-  line-height: 3rem;
-  padding: 0 2rem;
+  line-height: 2.2rem;
+  padding: 0 1rem;
   text-decoration: none;
   text-transform: uppercase;
 }
