@@ -52,14 +52,8 @@ body {
 }
 
 .Button {
-  /* background: #8490ff;
-  background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%); */
-  /* background: #cacaca; */
   border: 0.2rem solid #222;
   color: #222;
-  /* color: #ffffff; */
   display: inline-block;
   font-size: 1.2rem;
   font-weight: 500;
